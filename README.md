@@ -14,7 +14,7 @@ Parts
 * Banana plugs - Something screw on with approximatly an M3 thread - Recommended parts:
     * [Pomona Electronics 72918](https://www.digikey.com/en/products/detail/pomona-electronics/72918/1196334)
 * USB vertical - Pretty much any vertical, through hole mounting USB type A female connector should work - Recommended parts:
-    * [BOOMELE(Boom Precision Elec) C16722](https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-902-131A1011D10100_C2345.html)
+    * [BOOMELE(Boom Precision Elec) C16722](https://lcsc.com/product-detail/USB-Connectors_BOOMELE-Boom-Precision-Elec-C16722_C16722.html)
 * USB right angle - Pretty much any right angle, through hole mounting USB type A female connector should work - Recommended parts:
     * [Jing Extension of the Electronic Co. 902-131A1011D10100](https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-902-131A1011D10100_C2345.html)
 
