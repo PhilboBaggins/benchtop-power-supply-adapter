@@ -3,8 +3,6 @@ Benchtop power supply adapter
 
 USB power from from the banana jacks on a benchtop power supply.
 
-This board was designed in of [EasyEDA](https://easyeda.com/).
-
 ![./Exports-v1.0/Top.svg](./Exports-v1.0/Top.svg)
 ![./Exports-v1.0/Bottom.svg](./Exports-v1.0/Bottom.svg)
 
