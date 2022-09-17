@@ -6,6 +6,8 @@ USB power from from the banana jacks on a benchtop power supply.
 ![./Exports-v1.0/Top.svg](./Exports-v1.0/Top.svg)
 ![./Exports-v1.0/Bottom.svg](./Exports-v1.0/Bottom.svg)
 
+![Photo of assembled board](photo.jpg)
+
 Parts
 -----
 
